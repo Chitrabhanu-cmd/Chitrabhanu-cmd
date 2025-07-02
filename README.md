@@ -6,7 +6,7 @@
 
 ### 💡 About Me
 
-I'm a results-driven DevOps Engineer currently working on a large-scale banking project, with hands-on experience onboarding 8+ applications into GitLab CI/CD from scratch. I specialize in pipeline automation, secure deployments, and infrastructure-as-code.
+I'm a results-driven DevOps Engineer currently working on a large-scale banking project, with hands-on experience onboarding applications into GitLab CI/CD from scratch. I specialize in pipeline automation, secure deployments, and infrastructure-as-code.
 
 📍 Remote | 🏦 Truist Bank  
 🔁 Migrating apps written in Java, .NET, C/C++, SQL, SAS  
