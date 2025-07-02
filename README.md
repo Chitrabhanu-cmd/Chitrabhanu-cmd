@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Chitrabhanu (Chitra)
+# 👋 Hello, I'm Chitra M (Chitra)
 
 🚀 Passionate **DevOps Engineer** | 🔧 GitLab CI/CD • OpenShift • Terraform • Ansible • Veracode • Artifactory
 
@@ -10,7 +10,7 @@ I'm a results-driven DevOps Engineer currently working on a large-scale banking 
 
 📍 Remote | 🏦 Truist Bank  
 🔁 Migrating apps written in Java, .NET, C/C++, SQL, SAS  
-🛡️ Working with Veracode, Artifactory, and ServiceNow  
+🛡️ Working with Kuberntes , AWS, Azure, Veracode, Artifactory, and ServiceNow  
 🚀 Experienced in OpenShift deployments and Git branching strategies  
 
 ---
@@ -18,7 +18,7 @@ I'm a results-driven DevOps Engineer currently working on a large-scale banking 
 ### 🔧 Tech Stack
 
 - ⚙️ **CI/CD**: GitLab (on-prem), GitLab Runners, Jenkins  
-- 📦 **Containers**: Docker, Docker Compose, Red Hat OpenShift  
+- 📦 **Containers**: Docker, Docker Compose, Red Hat OpenShift , Kubernetes   
 - 🧩 **Security & Integrations**: Veracode, ServiceNow  
 - ☁️ **Infrastructure as Code**: Terraform, Ansible  
 - 🐚 **Scripting**: Bash, Python  
