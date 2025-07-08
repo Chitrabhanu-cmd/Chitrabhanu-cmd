@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Chitra M (Chitra Bhanu)</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud-Native Advocate | CI/CD Specialist</h3>
+<h3 align="center">🚀 DevOps Engineer | Cloud-Native Practitioner | CI/CD Specialist</h3>
 
 ---
 
