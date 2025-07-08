@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Chitra M (Chitra Bhanu)</h1>
+<h1 align="center">👋 Hi, I'm Chitra Bhanu</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud-Native Practitioner | CI/CD Specialist</h3>
 
 ---
