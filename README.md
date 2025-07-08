@@ -41,7 +41,7 @@
 ### 📫 Let's Connect
 
 - 💌 Email: [chitradevopsm@gmail.com](mailto:chitradevopsm@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/chitra-m-054022128/]
+- 💼 LinkedIn:https://www.linkedin.com/in/chitra-m-054022128/
 
 ---
 
